@@ -11,7 +11,7 @@ const App = () => {
     <div style={{border: '1px solid red', padding: '100px'}}>
       
       App 
-      <h1>Hello {name}</h1>
+      <h1>Hello {name}. 'm Savitha</h1>
       <Parent />
       </div>
 </NameContext.Provider>
